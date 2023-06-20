@@ -1,0 +1,7 @@
+C:\Users\rafany.cojesus\source\repos\Aula09_20.06\Aula09_20.06\bin\Debug\Aula09_20.06.exe.config
+C:\Users\rafany.cojesus\source\repos\Aula09_20.06\Aula09_20.06\bin\Debug\Aula09_20.06.exe
+C:\Users\rafany.cojesus\source\repos\Aula09_20.06\Aula09_20.06\bin\Debug\Aula09_20.06.pdb
+C:\Users\rafany.cojesus\source\repos\Aula09_20.06\Aula09_20.06\obj\Debug\Aula09_20.06.csproj.AssemblyReference.cache
+C:\Users\rafany.cojesus\source\repos\Aula09_20.06\Aula09_20.06\obj\Debug\Aula09_20.06.csproj.CoreCompileInputs.cache
+C:\Users\rafany.cojesus\source\repos\Aula09_20.06\Aula09_20.06\obj\Debug\Aula09_20.06.exe
+C:\Users\rafany.cojesus\source\repos\Aula09_20.06\Aula09_20.06\obj\Debug\Aula09_20.06.pdb
