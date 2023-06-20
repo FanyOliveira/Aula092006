@@ -59,16 +59,18 @@ namespace Aula09_20._06
                     int contador = 0;
                     while ( contador < produtos.Count )
                     {
-                        string primeira_letra = texto.Substring(0, 1);
+                        string palavra = produtos[contador];
+
+                        string primeira_letra = palavra.Substring(0, 1);
                         primeira_letra = primeira_letra.ToUpper();
 
-                        string segunda_parte = texto.Substring(1, texto.Length);
+                        string segunda_parte = palavra.Substring(1, palavra.Length-1);
 
-                        string palavra_completa = primeira_letra = segunda_parte;
+                        string palavra_completa = primeira_letra + segunda_parte;
 
-                        texto += palavra_completa + ",";
+                        texto += palavra_completa + ", ";
 
-                        texto += produtos[contador] + ", ";
+                        //texto += produtos[contador] + ", ";
                         contador++;
                     }
 
